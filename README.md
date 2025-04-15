@@ -1,0 +1,1 @@
+Este projeto implementa um CRUD (Create, Read, Update, Delete) simples utilizando PHP para o back-end, com SQL para interação com o banco de dados. A interface do usuário permite a criação, leitura, atualização e exclusão de registros em uma base de dados.
